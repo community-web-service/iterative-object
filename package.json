@@ -1,0 +1,32 @@
+{
+	"name":"iterative-object",
+	"version":"0.0.1",
+	"description":"Class providing an object with iteration support and array methods.",
+	"homepage":"https://github.com/community-web-service/iterative-object",
+	"author":{
+		"name":"Robert Gaines",
+		"email":"rob@communitywebservice.com",
+		"url":"https://www.communitywebservice.com"
+	},
+	"license":"Apache-2.0",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/community-web-service/iterative-object"
+	},
+	"bugs":{
+		"email":"rob@communitywebservice.com",
+		"url":"https://github.com/community-web-service/iterative-object/issues"
+	},
+	"directories":{
+		"doc":"./doc"
+	},
+	"main":"index.js",
+	"scripts":{
+		"test":"echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords":[
+		"javascript",
+		"iteration",
+		"array"
+	]
+}
